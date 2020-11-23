@@ -17,14 +17,41 @@ h5,
 h6 {
     color: #1d273b;
     font-weight: 300;
-   
+
+}
+
+.trj-bg{
+  margin-left: 150px;
+  margin-top: 200px;
+  max-width: 450px;
+}
+.trj-bg h1{
+  font-family: 'Roboto', sans-serif;
+  font-weight: bold;
+  color: #1c2056;
+}
+
+.trj-bg a{
+  margin: 28px 0 0 0;
+  width: 130px;
+  display: inline-block;
+  background: #2870db;
+  text-align: center;
+  color: #fff;
+  padding: 12px 0;
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-size: 14px;
+  border-radius: 5px;
+  box-shadow: 0 8px 32px rgba(51, 102, 204, .46);
 }
 
 .contenedor {
     width: 90%;
     max-width: 1000px;
     margin: auto;
-    overflow: hidden; 
+    overflow: hidden;
 }
 
 
