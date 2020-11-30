@@ -9,12 +9,7 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1, h2, h3, h4, h5, h6 {
     color: #1d273b;
     font-weight: 300;
 
@@ -323,6 +318,7 @@ nav {
 
 .numbers .number h4 {
     color: #fff;
+    margin-left: 25px;
     font-size: 50px;
     font-weight: 500;
     margin-bottom: 20px;
@@ -331,6 +327,12 @@ nav {
 .numbers .number p {
     color: #f2f5fc;
     font-weight: 300;
+}
+
+.numbers .number img{
+  margin-bottom: 20px;
+  width: 220px;
+
 }
 
 .results-text {
