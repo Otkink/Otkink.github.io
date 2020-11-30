@@ -404,8 +404,7 @@ footer {
 }
 
 .partFooter {
-    width: 20%;
-    align-items: center;
+    width: 100%;
     text-align: center;
 }
 
@@ -431,7 +430,7 @@ footer {
 }
 
 .partFooter img {
-    width: 70%;
+    width: 5%;
 }
 
 .social-media i {
